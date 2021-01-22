@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="xamarinautomation.HomePage">
+    <ContentPage.Content>
+         <StackLayout>
+            
+                <!-- CC Controls -->
+                <Entry x:Name="entryCC" AutomationId="CreditCardEntry" Placeholder="At least 5 character"/>
+                <Button AutomationId="ValidateCC" Text="Validate CC" Clicked="Button_Clicked"/>
+                <!-- Rainbows -->
+               
+           
+            <Label   AutomationId="HomePage"  Text="Welcome To HomePage"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

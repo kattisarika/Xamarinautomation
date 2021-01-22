@@ -1,0 +1,15 @@
+/Applications/XamarinTestAutomation/Xamarinautomation/xamarinautomation/bin/Debug/netstandard2.0/xamarinautomation.deps.json
+/Applications/XamarinTestAutomation/Xamarinautomation/xamarinautomation/bin/Debug/netstandard2.0/xamarinautomation.dll
+/Applications/XamarinTestAutomation/Xamarinautomation/xamarinautomation/bin/Debug/netstandard2.0/ref/xamarinautomation.dll
+/Applications/XamarinTestAutomation/Xamarinautomation/xamarinautomation/bin/Debug/netstandard2.0/xamarinautomation.pdb
+/Applications/XamarinTestAutomation/Xamarinautomation/xamarinautomation/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Applications/XamarinTestAutomation/Xamarinautomation/xamarinautomation/obj/Debug/netstandard2.0/HelpPage.xaml.g.cs
+/Applications/XamarinTestAutomation/Xamarinautomation/xamarinautomation/obj/Debug/netstandard2.0/HomePage.xaml.g.cs
+/Applications/XamarinTestAutomation/Xamarinautomation/xamarinautomation/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Applications/XamarinTestAutomation/Xamarinautomation/xamarinautomation/obj/Debug/netstandard2.0/xamarinautomation.AssemblyInfoInputs.cache
+/Applications/XamarinTestAutomation/Xamarinautomation/xamarinautomation/obj/Debug/netstandard2.0/xamarinautomation.AssemblyInfo.cs
+/Applications/XamarinTestAutomation/Xamarinautomation/xamarinautomation/obj/Debug/netstandard2.0/xamarinautomation.csproj.CoreCompileInputs.cache
+/Applications/XamarinTestAutomation/Xamarinautomation/xamarinautomation/obj/Debug/netstandard2.0/XamlC.stamp
+/Applications/XamarinTestAutomation/Xamarinautomation/xamarinautomation/obj/Debug/netstandard2.0/xamarinautomation.dll
+/Applications/XamarinTestAutomation/Xamarinautomation/xamarinautomation/obj/Debug/netstandard2.0/ref/xamarinautomation.dll
+/Applications/XamarinTestAutomation/Xamarinautomation/xamarinautomation/obj/Debug/netstandard2.0/xamarinautomation.pdb

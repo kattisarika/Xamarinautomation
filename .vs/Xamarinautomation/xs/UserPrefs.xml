@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{A12259DD-4DB2-4141-96D3-CC6CDB3191F9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="xamarinautomation/MainPage.xaml">
+    <Files>
+      <File FileName="xamarinautomation/App.xaml" Line="5" Column="7" />
+      <File FileName="xamarinautomation/MainPage.xaml" Line="60" Column="23" />
+      <File FileName="xamarinautomation/HomePage.xaml" Line="12" Column="12" />
+      <File FileName="xamarinautomation/HomePage.xaml.cs" Line="20" Column="80" />
+      <File FileName="xamarinautomation/HelpPage.xaml" Line="9" Column="27" />
+      <File FileName="xamarinautomation/HelpPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="xamarinautomation/MainPage.xaml.cs" Line="14" Column="59" />
+      <File FileName="xamarinautomation/MenuItems/MasterPageItem.cs" Line="10" Column="1" />
+      <File FileName="xamarinautomation.UITests/AppInitializer.cs" Line="1" Column="1" />
+      <File FileName="xamarinautomation.UITests/Tests.cs" Line="60" Column="24" />
+      <File FileName="xamarinautomation.Android/Resources/mipmap-anydpi-v26/icon_round.xml" Line="1" Column="1" />
+      <File FileName="xamarinautomation.Android/Resources/mipmap-anydpi-v26/icon.xml" Line="1" Column="1" />
+      <File FileName="xamarinautomation/App.xaml.cs" Line="13" Column="7" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="xamarinautomation" expanded="True">
+            <Node name="xamarinautomation" expanded="True">
+              <Node name="MenuItems" expanded="True" />
+              <Node name="App.xaml" expanded="True" />
+              <Node name="HelpPage.xaml" expanded="True" />
+              <Node name="HomePage.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" selected="True" />
+            </Node>
+            <Node name="xamarinautomation.Android" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.xamarinautomation.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" AndroidDesignerPreferredDevice="Nexus 4" TriggeredFromHotReload="False" PreferredExecutionTarget="Android.pixel_2_q_10_0_-_api_29" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

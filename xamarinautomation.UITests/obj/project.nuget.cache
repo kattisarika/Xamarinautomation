@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3UUqtCJfWR8zsieoL0ZAt6LfVbWrABG847NbJpjRpENWDG+5yq43WT1tABRkx/ggFjhs6g8zYj1bnmAzI+ADiw==",
+  "success": true,
+  "projectFilePath": "/Applications/XamarinTestAutomation/Xamarinautomation/xamarinautomation.UITests/xamarinautomation.UITests.csproj",
+  "expectedPackageFiles": [
+    "/Users/sarikakatti/.nuget/packages/nunit/3.12.0/nunit.3.12.0.nupkg.sha512",
+    "/Users/sarikakatti/.nuget/packages/xamarin.uitest/3.0.5/xamarin.uitest.3.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

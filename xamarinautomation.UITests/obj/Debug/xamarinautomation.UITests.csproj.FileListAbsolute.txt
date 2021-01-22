@@ -1,0 +1,9 @@
+/Applications/XamarinTestAutomation/Xamarinautomation/xamarinautomation.UITests/bin/Debug/xamarinautomation.UITests.dll
+/Applications/XamarinTestAutomation/Xamarinautomation/xamarinautomation.UITests/bin/Debug/xamarinautomation.UITests.pdb
+/Applications/XamarinTestAutomation/Xamarinautomation/xamarinautomation.UITests/bin/Debug/nunit.framework.dll
+/Applications/XamarinTestAutomation/Xamarinautomation/xamarinautomation.UITests/bin/Debug/nunit.framework.pdb
+/Applications/XamarinTestAutomation/Xamarinautomation/xamarinautomation.UITests/bin/Debug/Xamarin.UITest.dll
+/Applications/XamarinTestAutomation/Xamarinautomation/xamarinautomation.UITests/obj/Debug/xamarinautomation.UITests.csproj.CoreCompileInputs.cache
+/Applications/XamarinTestAutomation/Xamarinautomation/xamarinautomation.UITests/obj/Debug/xamarinautomation.UITests.csproj.CopyComplete
+/Applications/XamarinTestAutomation/Xamarinautomation/xamarinautomation.UITests/obj/Debug/xamarinautomation.UITests.dll
+/Applications/XamarinTestAutomation/Xamarinautomation/xamarinautomation.UITests/obj/Debug/xamarinautomation.UITests.pdb
